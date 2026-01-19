@@ -46,4 +46,15 @@ RestaurantNameGenerator/
 
 ---
 
+## Live streamlit 
+🔗 View on streamlit
+http://localhost:8501/
+
+---
+
+## App Preview
+![App view](app_output.png)
+
+
+
 
